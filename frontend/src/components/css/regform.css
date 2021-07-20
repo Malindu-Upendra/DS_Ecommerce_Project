@@ -1,0 +1,22 @@
+.Reg_Container{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+    width: 30%;
+    border-radius: 5px;
+    background-color: #b3d9ff
+  }
+
+  .Log_Container{
+
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+    width: 34%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #b3d9ff
+   
+  }
+  
+ 
